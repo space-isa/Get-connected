@@ -18,6 +18,7 @@ This code was devloped using vanilla JavaScript, HTML and CSS.
 - Integrate an off-line feature that automatically updates when user has access to wi-fi.
 - Display current location on map.
 - Extensive testing and debugging.
+- Update CSS style to reflect best accessibility practices. 
 
 ## License
 This project is developed under The Unlicense license.
